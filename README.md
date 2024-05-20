@@ -280,6 +280,6 @@ When the application runs, it displays a custom view with the following elements
 
 ## Image Visuals
 
-<img src="" width=200>
+<img src="Canvas Screen.png" width=200>
     
 ## Video Walkthrough
