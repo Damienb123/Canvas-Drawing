@@ -12,7 +12,8 @@
     - activity_main.xml
 5. [Usage Instructions](#Usage-Instructions)
 6. [Expected Output](#Expected-Output)
-7. [Video Walkthrough](#Video-Walkthrough)
+7. [Image Visuals](#Image-Visuals)
+8. [Video Walkthrough](#Video-Walkthrough)
 
 ## Overview
 
@@ -276,5 +277,9 @@ When the application runs, it displays a custom view with the following elements
 - A title text saying "Click To Move Circle".
 - A rectangle at the center of the screen that changes color when clicked.
 - A circle that moves to the location where the user clicks, leaving a trail of lines.
+
+## Image Visuals
+
+<img src="" width=200>
     
 ## Video Walkthrough
