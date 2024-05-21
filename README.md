@@ -283,3 +283,5 @@ When the application runs, it displays a custom view with the following elements
 <img src="Canvas Screen.png" width=200>
     
 ## Video Walkthrough
+
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
