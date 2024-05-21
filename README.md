@@ -284,4 +284,4 @@ When the application runs, it displays a custom view with the following elements
     
 ## Video Walkthrough
 
-<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Canvas Drawing App Video Walkthrough.gif(1)' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
