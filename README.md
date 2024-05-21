@@ -13,7 +13,6 @@
 5. [Usage Instructions](#Usage-Instructions)
 6. [Expected Output](#Expected-Output)
 7. [Image Visuals](#Image-Visuals)
-8. [Video Walkthrough](#Video-Walkthrough)
 
 ## Overview
 
@@ -282,6 +281,3 @@ When the application runs, it displays a custom view with the following elements
 
 <img src="Canvas Screen.png" width=200>
     
-## Video Walkthrough
-
-<img src='Canvas Drawing App Video Walkthrough.gif(1)' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
